@@ -1,24 +1,18 @@
-# Hello World!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="32px"> 
+# 💫 About Me:
+Facing Challenges Every Day<br>Good For Nothing
 
 
-- ### Facing Challenges Every Day.
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/spicy.falcon) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/MarufHossain619) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmad-maruf-hossain) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MarufHossain619) 
 
-## 💻 Tech Skills
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SpicyFalcon619&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SpicyFalcon619&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SpicyFalcon619&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<table style="float: left;">
-  <tr>
-    <td align="center" width="96" height="96">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" width="50" height="50" />
-      <br>
-    </td>
-    <td align="center" width="96">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" alt="VS Code" width="50" height="50" />
-      <br>
-    </td>
-  </tr>
-</table>
+---
+[![](https://visitcount.itsvg.in/api?id=SpicyFalcon619&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-## 📈 GitHub stats
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=spicyfalcon619&show_icons=true&bg_color=00000000&theme=radical" alt="Hossain's github stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najibnahindev&layout=compact&bg_color=00000000&theme=radical" /></a>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
