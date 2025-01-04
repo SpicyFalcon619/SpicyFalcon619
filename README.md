@@ -15,10 +15,6 @@
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" alt="VS Code" width="50" height="50" />
       <br>
     </td>
-    <td align="center" width="96">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Notion-Light.svg" alt="Notion" width="50" height="50" />
-      <br>
-    </td>
   </tr>
 </table>
 
