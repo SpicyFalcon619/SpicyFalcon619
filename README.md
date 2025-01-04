@@ -1,5 +1,6 @@
 # 💫 About Me:
-- ### Facing Challenges Every Day<br>Good For Nothing
+- ### Facing Challenges Every Day
+- ### Good For Nothing
 
 
 ## 🌐 Socials:
