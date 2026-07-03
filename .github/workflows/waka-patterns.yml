@@ -35,6 +35,11 @@ jobs:
           SHOW_EDITORS: false
           SHOW_UPDATED_DATE: false
 
+      - name: Sync with the commit the action just pushed
+        run: |
+          git fetch origin main
+          git reset --hard origin/main
+
       - name: Strip hardcoded emoji from the patterns section
         run: |
           sed -i \
