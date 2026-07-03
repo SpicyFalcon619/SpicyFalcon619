@@ -76,5 +76,5 @@ Full write-ups on my [portfolio site](https://github.com/SpicyFalcon619/My-Portf
 ---
 
 <div align="center">
-<sub><img src="https://visitcount.itsvg.in/api?id=SpicyFalcon619&icon=0&color=8" alt="visitor count" /></sub>
+<img src="https://komarev.com/ghpvc/?username=SpicyFalcon619&color=4D8DFF&style=flat&label=Profile+Views" alt="Profile views" />
 </div>

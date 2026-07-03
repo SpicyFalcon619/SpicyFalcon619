@@ -26,3 +26,8 @@ jobs:
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_lines: yes
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
