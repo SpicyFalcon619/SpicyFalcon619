@@ -24,10 +24,5 @@ jobs:
           config_timezone: Asia/Dhaka
           config_theme: dark
           plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout: 60
           plugin_lines: yes
-          plugin_achievements: yes
-          plugin_achievements_threshold: C
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
