@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="480" />
+<img src="https://i.pinimg.com/originals/13/45/50/13455040862ac9b8e465185878838cf1.gif" width="480" />
 
 # Ahmad Maruf Hossain
 ### SpicyFalcon619
@@ -44,13 +44,18 @@ Full write-ups on my [portfolio site](https://github.com/SpicyFalcon619/My-Portf
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,mysql,solidity,git,github,linux,arch&theme=dark" />
 
+## This Week I Coded In
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## GitHub Stats
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/SpicyFalcon619/SpicyFalcon619/main/metrics.svg" alt="GitHub metrics" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=SpicyFalcon619&theme=algolia&no-frame=true&margin-w=8&row=1" alt="Trophies" />
+<img src="https://trophy.ryglcloud.net/?username=SpicyFalcon619&theme=algolia&no-frame=true&margin-w=8&row=1" alt="Trophies" />
 
 </div>
 
