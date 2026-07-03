@@ -7,16 +7,17 @@ on:
 
 jobs:
   update-readme:
-    name: Update Readme with WakaTime Metrics
+    name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_TIMEZONE: false
-          SHOW_PROJECTS: true
-          SHOW_LANGUAGE: true
-          SHOW_OS: false
-          SHOW_EDITORS: false
-          SHOW_TOTAL_CODE_TIME: true
+          SHOW_TITLE: false
+          SECTION_NAME: waka
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 6
+          SHOW_TIME: true
+          SHOW_TOTAL: true
