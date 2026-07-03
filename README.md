@@ -56,6 +56,11 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
+## Coding Patterns
+
+<!--START_SECTION:waka-patterns-->
+<!--END_SECTION:waka-patterns-->
+
 ## GitHub Stats
 
 <div align="center">
