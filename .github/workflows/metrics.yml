@@ -23,6 +23,4 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Dhaka
           config_theme: dark
-          plugin_languages: yes
-          plugin_languages_analysis_timeout: 60
           plugin_lines: yes
