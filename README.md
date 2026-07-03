@@ -47,6 +47,71 @@ Full write-ups on my [portfolio site](https://github.com/SpicyFalcon619/My-Portf
 ## This Week I Coded In
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 487.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 717 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 27 Public Repositories 
+ > 
+> 🔑 9 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                259 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+🌆 Daytime                385 commits         ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
+🌃 Evening                471 commits         ███████░░░░░░░░░░░░░░░░░░   28.19 % 
+🌙 Night                  556 commits         ████████░░░░░░░░░░░░░░░░░   33.27 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   269 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+Tuesday                  222 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Wednesday                430 commits         ██████░░░░░░░░░░░░░░░░░░░   25.73 % 
+Thursday                 154 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+Friday                   214 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+Saturday                 167 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+Sunday                   215 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               12 repos            ██████████░░░░░░░░░░░░░░░   38.71 % 
+HTML                     7 repos             ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/SpicyFalcon619/SpicyFalcon619/main/assets/bar_graph.png)
+
+
+ Last Updated on 03/07/2026 15:27:23 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub Stats
