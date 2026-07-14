@@ -98,17 +98,6 @@ Sunday                   220 commits         ███░░░░░░░░�
 
 </div>
 
-<table align="center">
-<tr>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SpicyFalcon619&theme=tokyonight" /></td>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SpicyFalcon619&theme=tokyonight" /></td>
-</tr>
-<tr>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SpicyFalcon619&theme=tokyonight&utcOffset=6" /></td>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SpicyFalcon619&theme=tokyonight" /></td>
-</tr>
-</table>
-
 ## Contribution Snake
 
 <div align="center">
