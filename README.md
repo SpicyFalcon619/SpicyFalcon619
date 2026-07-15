@@ -64,15 +64,15 @@ Other        21 mins               ▓░░░░░░░░░░░░░░
 ## Coding Patterns
 
 <!--START_SECTION:waka-patterns-->
-**I'm a Night 🦉** 
+**I'm a Night** 
 
 ```text
-🌞 Morning                272 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
-🌆 Daytime                399 commits         ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
-🌃 Evening                496 commits         ███████░░░░░░░░░░░░░░░░░░   28.74 % 
-🌙 Night                  559 commits         ████████░░░░░░░░░░░░░░░░░   32.39 % 
+Morning                272 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+Daytime                399 commits         ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
+Evening                496 commits         ███████░░░░░░░░░░░░░░░░░░   28.74 % 
+Night                  559 commits         ████████░░░░░░░░░░░░░░░░░   32.39 % 
 ```
-📅 **I'm Most Productive on Wednesday** 
+**I'm Most Productive on Wednesday** 
 
 ```text
 Monday                   301 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
