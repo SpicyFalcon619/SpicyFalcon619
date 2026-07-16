@@ -18,7 +18,7 @@
 - Documenting the ML journey in [ml-research-journey](https://github.com/SpicyFalcon619/ml-research-journey) — Python to NumPy/Pandas to Classical ML to (eventually) neural nets
 - Won **"Best Emerging Team"** (Blockchain track) at UIU CSE FEST 2025 with **Wastopia**
 - Built [UIUNest](https://github.com/SpicyFalcon619/uiu-nest-core) from scratch — a housing & flatmate-matching platform for UIU students; my proudest project, and a fully original idea, not a tutorial clone
-- Also teach — wrote OOP (Java) notes classmates actually use, hosted on Notion
+- Also teach — wrote OOP (Java) notes that classmates actually use, hosted on Notion
 - Running Arch Linux + Hyprland, tuning my rice more often than I should
 - Off the keyboard: esports (Valorant, Gold 1), Rubik's cubes
 
@@ -94,7 +94,7 @@ Sunday                   220 commits         ███░░░░░░░░�
 
 <img src="https://raw.githubusercontent.com/SpicyFalcon619/SpicyFalcon619/main/metrics.svg" alt="GitHub metrics" />
 
-<img src="https://trophy.ryglcloud.net/?username=SpicyFalcon619&theme=algolia&no-frame=true&margin-w=8&row=1" alt="Trophies" />
+<!-- <img src="https://trophy.ryglcloud.net/?username=SpicyFalcon619&theme=algolia&no-frame=true&margin-w=8&row=1" alt="Trophies" /> -->
 
 </div>
 
