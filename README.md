@@ -64,24 +64,24 @@ JSON         27 mins               ▓░░░░░░░░░░░░░░
 ## Coding Patterns
 
 <!--START_SECTION:waka-patterns-->
-**I'm a Night** 
+**I'm a Night 🦉** 
 
 ```text
-Morning                272 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-Daytime                399 commits         ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
-Evening                504 commits         ███████░░░░░░░░░░░░░░░░░░   29.07 % 
-Night                  559 commits         ████████░░░░░░░░░░░░░░░░░   32.24 % 
+🌞 Morning                272 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+🌆 Daytime                402 commits         ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
+🌃 Evening                504 commits         ███████░░░░░░░░░░░░░░░░░░   29.00 % 
+🌙 Night                  560 commits         ████████░░░░░░░░░░░░░░░░░   32.22 % 
 ```
-**I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   301 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
-Tuesday                  236 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-Wednesday                435 commits         ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
-Thursday                 161 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-Friday                   224 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-Saturday                 157 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-Sunday                   220 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Monday                   301 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+Tuesday                  236 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+Wednesday                435 commits         ██████░░░░░░░░░░░░░░░░░░░   25.03 % 
+Thursday                 161 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+Friday                   228 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+Saturday                 157 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Sunday                   220 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
 ```
 
 
