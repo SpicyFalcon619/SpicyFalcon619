@@ -64,15 +64,17 @@ PowerShell   4 mins                ▒░░░░░░░░░░░░░░
 ## Coding Patterns
 
 <!--START_SECTION:waka-patterns-->
-**I'm a Night** 
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-120%20hrs%204%20mins-blue?style=flat)
+
+**I'm a Night 🦉** 
 
 ```text
-Morning                272 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-Daytime                402 commits         ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
-Evening                504 commits         ███████░░░░░░░░░░░░░░░░░░   29.00 % 
-Night                  560 commits         ████████░░░░░░░░░░░░░░░░░   32.22 % 
+🌞 Morning                272 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+🌆 Daytime                402 commits         ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
+🌃 Evening                504 commits         ███████░░░░░░░░░░░░░░░░░░   29.00 % 
+🌙 Night                  560 commits         ████████░░░░░░░░░░░░░░░░░   32.22 % 
 ```
-**I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Wednesday** 
 
 ```text
 Monday                   301 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
@@ -84,6 +86,30 @@ Saturday                 157 commits         ██░░░░░░░░░�
 Sunday                   220 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
 ```
 
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 3 hrs 56 mins (99.51%)
+
+✍️ 4,918 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 44,653,857 Input Tokens, 178,576 Output Tokens
+
+💵 $304.98 Estimated AI Cost This Week
+
+🧠 9 AI Sessions, 80 AI Prompts
+
+Opus                     5,897 lines         ███████████████████████░░   93.34 % 
+Sonnet                   421 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 482 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 0.14% of changed lines were hand-edited
+```
 
 
 <!--END_SECTION:waka-patterns-->
