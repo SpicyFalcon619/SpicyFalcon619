@@ -64,17 +64,15 @@ PowerShell   4 mins                ▓░░░░░░░░░░░░░░
 ## Coding Patterns
 
 <!--START_SECTION:waka-patterns-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-120%20hrs%204%20mins-blue?style=flat)
-
-**I'm a Night** 
+**I'm a Night 🦉** 
 
 ```text
-Morning                272 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-Daytime                402 commits         ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
-Evening                504 commits         ███████░░░░░░░░░░░░░░░░░░   29.00 % 
-Night                  560 commits         ████████░░░░░░░░░░░░░░░░░   32.22 % 
+🌞 Morning                272 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+🌆 Daytime                402 commits         ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
+🌃 Evening                504 commits         ███████░░░░░░░░░░░░░░░░░░   29.00 % 
+🌙 Night                  560 commits         ████████░░░░░░░░░░░░░░░░░   32.22 % 
 ```
-**I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Wednesday** 
 
 ```text
 Monday                   301 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
@@ -90,25 +88,25 @@ Sunday                   220 commits         ███░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 56 mins (99.51%)
+⏱ AI Coding Time: 3 hrs 6 mins (100.0%)
 
-✍️ 4,918 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,585 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 44,653,857 Input Tokens, 178,576 Output Tokens
+🔤 42,596,010 Input Tokens, 160,384 Output Tokens
 
-💵 $304.98 Estimated AI Cost This Week
+💵 $294.53 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 80 AI Prompts
+🧠 7 AI Sessions, 46 AI Prompts
 
-Opus                     5,897 lines         ███████████████████████░░   93.34 % 
-Sonnet                   421 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+Opus                     3,564 lines         ██████████████████████░░░   89.44 % 
+Sonnet                   421 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 482 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.14% of changed lines were hand-edited
+📝 Concise Prompter — average 308 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
