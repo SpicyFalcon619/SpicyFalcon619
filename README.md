@@ -66,15 +66,15 @@ PowerShell   4 mins                ▓░░░░░░░░░░░░░░
 <!--START_SECTION:waka-patterns-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-120%20hrs%204%20mins-blue?style=flat)
 
-**I'm a Night 🦉** 
+**I'm a Night** 
 
 ```text
-🌞 Morning                267 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-🌆 Daytime                386 commits         ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
-🌃 Evening                480 commits         ███████░░░░░░░░░░░░░░░░░░   28.39 % 
-🌙 Night                  558 commits         ████████░░░░░░░░░░░░░░░░░   33.00 % 
+Morning                267 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Daytime                386 commits         ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
+Evening                480 commits         ███████░░░░░░░░░░░░░░░░░░   28.39 % 
+Night                  558 commits         ████████░░░░░░░░░░░░░░░░░   33.00 % 
 ```
-📅 **I'm Most Productive on Wednesday** 
+**I'm Most Productive on Wednesday** 
 
 ```text
 Monday                   301 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
