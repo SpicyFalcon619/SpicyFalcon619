@@ -59,58 +59,6 @@ Text     20 mins               █▒░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-## Coding Patterns
-
-<!--START_SECTION:waka-patterns-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-120%20hrs%204%20mins-blue?style=flat)
-
-**I'm a Night** 
-
-```text
-Morning                272 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-Daytime                402 commits         ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
-Evening                504 commits         ███████░░░░░░░░░░░░░░░░░░   29.00 % 
-Night                  560 commits         ████████░░░░░░░░░░░░░░░░░   32.22 % 
-```
-**I'm Most Productive on Wednesday** 
-
-```text
-Monday                   301 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
-Tuesday                  236 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-Wednesday                435 commits         ██████░░░░░░░░░░░░░░░░░░░   25.03 % 
-Thursday                 161 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-Friday                   228 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-Saturday                 157 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
-Sunday                   220 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-```
-
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 24 mins (100.0%)
-
-✍️ 1,038 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 6,434,493 Input Tokens, 20,028 Output Tokens
-
-💵 $113.26 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 5 AI Prompts
-
-Opus                     1,890 lines         ████████████████████░░░░░   81.78 % 
-Sonnet                   421 lines           █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,842 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
-
-<!--END_SECTION:waka-patterns-->
-
 ## GitHub Stats
 
 <div align="center">
