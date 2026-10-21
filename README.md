@@ -1,50 +1,48 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/13/45/50/13455040862ac9b8e465185878838cf1.gif" width="480" />
+<img src="https://i.pinimg.com/originals/13/45/50/13455040862ac9b8e465185878838cf1.gif" width="540" alt="Pixel art room at night" />
+
+<br />
 
 # Ahmad Maruf Hossain
-### SpicyFalcon619
 
 <a href="https://github.com/SpicyFalcon619">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&pause=1500&color=38BDF8&center=true&vCenter=true&width=650&height=40&lines=CSE+undergrad+%40+United+International+University;Going+deep+on+Machine+Learning+%26+AI;Also+into+systems+programming+%2B+Linux;Currently+learning%3A+Classical+ML;Off+the+keyboard%3A+Valorant+%2B+Rubik%27s+cubes" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=15&pause=1800&color=38BDF8&center=true&vCenter=true&width=620&height=36&lines=CSE+undergrad+%40+United+International+University;Machine+Learning+%26+AI;Systems+programming+%2B+Linux;Valorant+%2B+Rubik%27s+cubes" alt="CSE undergrad at United International University. Machine Learning and AI. Systems programming and Linux. Valorant and Rubik's cubes." />
 </a>
+
+<sub>[GitHub](https://github.com/SpicyFalcon619) &nbsp;/&nbsp; [LinkedIn](https://www.linkedin.com/in/ahmad-maruf-hossain/) &nbsp;/&nbsp; [Instagram](https://www.instagram.com/spicy_falconn/) &nbsp;/&nbsp; [Email](mailto:a.marufhossain619@gmail.com)</sub>
+
+<br />
+
+<img src="https://raw.githubusercontent.com/SpicyFalcon619/SpicyFalcon619/output/skyline.svg" width="860" alt="Contribution skyline: one building per week, one lit window per day with contributions" />
 
 </div>
 
-## About Me
+<br />
 
-- 2nd-year CSE undergrad at **United International University**, Dhaka
-- Self-taught, currently splitting focus between **Machine Learning / AI** and **systems programming**
-- Documenting the ML journey in [ml-research-journey](https://github.com/SpicyFalcon619/ml-research-journey) — Python to NumPy/Pandas to Classical ML to (eventually) neural nets
-- Won **"Best Emerging Team"** (Blockchain track) at UIU CSE FEST 2025 with **Wastopia**
-- Built [UIUNest](https://github.com/SpicyFalcon619/uiu-nest-core) from scratch — a housing & flatmate-matching platform for UIU students; my proudest project, and a fully original idea, not a tutorial clone
-- Also teach — wrote OOP (Java) notes that classmates actually use, hosted on Notion
-- Running Arch Linux + Hyprland, tuning my rice more often than I should
-- Off the keyboard: esports (Valorant, Gold 1), Rubik's cubes
+## Now
 
-## Featured Projects
+- 2nd-year CSE at **United International University**, Dhaka. Self-taught, split between **Machine Learning / AI** and **systems programming**
+- Learning classical ML in public: [ml-research-journey](https://github.com/SpicyFalcon619/ml-research-journey), from Python and NumPy/Pandas towards neural nets
+- Arch Linux + Hyprland, tuning my rice more often than I should
 
-| Project | What it is |
+## Selected work
+
+| | |
 |---|---|
-| [**UIUNest**](https://github.com/SpicyFalcon619/uiu-nest-core) | My proudest, fully original build — housing & flatmate-matching for UIU students, with transparent billing, 8-dimension compatibility matching, and a dorm-essentials marketplace. [Live demo](https://uiu-nest-core.vercel.app) |
-| [**ml-research-journey**](https://github.com/SpicyFalcon619/ml-research-journey) | ML/AI learning journey — Python to NumPy/Pandas to Classical ML |
-| [**Wastopia**](https://project-wastopia.vercel.app/) | Blockchain waste-tracking platform — Best Emerging Team, UIU CSE FEST 2025 |
-| [**YT-DeepNote**](https://github.com/SpicyFalcon619/YT-DeepNote) | Chrome extension for timestamped notes + Notion sync while learning on YouTube |
-| [**ClearPath**](https://github.com/SpicyFalcon619/ClearPath) | Full-stack university clearance system (PHP/MySQL) |
+| [**UIUNest**](https://github.com/SpicyFalcon619/uiu-nest-core) | Housing and flatmate matching for UIU students. My proudest build, a fully original idea. [Live](https://uiu-nest-core.vercel.app) |
+| [**Wastopia**](https://project-wastopia.vercel.app/) | Blockchain waste tracking. Best Emerging Team, UIU CSE FEST 2025 |
+| [**ml-research-journey**](https://github.com/SpicyFalcon619/ml-research-journey) | The ML / AI learning log |
+| [**YT-DeepNote**](https://github.com/SpicyFalcon619/YT-DeepNote) | Chrome extension for timestamped notes with Notion sync |
+| [**ClearPath**](https://github.com/SpicyFalcon619/ClearPath) | University clearance system (PHP / MySQL) |
 
-Full write-ups on my [portfolio site](https://github.com/SpicyFalcon619/My-Portfolio).
+More on the [portfolio](https://github.com/SpicyFalcon619/My-Portfolio).
 
-## Technologies
+## Stack
 
-**Languages**
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,react,nextjs,php,mysql,linux,git&theme=dark" alt="C, C++, Java, Python, JavaScript, TypeScript, React, Next.js, PHP, MySQL, Linux, Git" />
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,php&theme=dark" />
-
-**Frameworks & Tools**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,mysql,solidity,git,github,linux,arch&theme=dark" />
-
-## This Week I Coded In
+## This week
 
 <!--START_SECTION:waka-->
 
@@ -60,38 +58,3 @@ Text          19 mins               ▓░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SpicyFalcon619/SpicyFalcon619/main/metrics.svg" alt="GitHub metrics" />
-
-<!-- <img src="https://trophy.ryglcloud.net/?username=SpicyFalcon619&theme=algolia&no-frame=true&margin-w=8&row=1" alt="Trophies" /> -->
-
-</div>
-
-## Contribution Snake
-
-<div align="center">
-
-![Contribution snake animation](https://raw.githubusercontent.com/SpicyFalcon619/SpicyFalcon619/output/github-contribution-grid-snake.svg)
-
-</div>
-
-## Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SpicyFalcon619)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-maruf-hossain/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/spicy_falconn/)
-[![Email](https://img.shields.io/badge/Email-4D8DFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.marufhossain619@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=SpicyFalcon619&color=4D8DFF&style=flat&label=Profile+Views" alt="Profile views" />
-</div>
