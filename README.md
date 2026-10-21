@@ -7,10 +7,14 @@
 # Ahmad Maruf Hossain
 
 <a href="https://github.com/SpicyFalcon619">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=15&pause=1800&color=38BDF8&center=true&vCenter=true&width=620&height=36&lines=CSE+undergrad+%40+United+International+University;Machine+Learning+%26+AI;Systems+programming+%2B+Linux;Valorant+%2B+Rubik%27s+cubes" alt="CSE undergrad at United International University. Machine Learning and AI. Systems programming and Linux. Valorant and Rubik's cubes." />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=15&pause=1800&color=38BDF8&center=true&vCenter=true&width=620&height=36&lines=3rd-year+CSE+%40+United+International+University;Machine+Learning+%26+AI;Systems+programming+%2B+Linux;Valorant+%2B+Rubik%27s+cubes" alt="3rd-year CSE at United International University. Machine Learning and AI. Systems programming and Linux. Valorant and Rubik's cubes." />
 </a>
 
 <sub>[GitHub](https://github.com/SpicyFalcon619) &nbsp;/&nbsp; [LinkedIn](https://www.linkedin.com/in/ahmad-maruf-hossain/) &nbsp;/&nbsp; [Instagram](https://www.instagram.com/spicy_falconn/) &nbsp;/&nbsp; [Email](mailto:a.marufhossain619@gmail.com)</sub>
+
+<br />
+
+<img src="https://raw.githubusercontent.com/SpicyFalcon619/SpicyFalcon619/output/neofetch.svg" width="860" alt="Terminal card: Arch Linux with Hyprland, 3rd year CSE, languages, repositories and contributions" />
 
 <br />
 
@@ -19,12 +23,6 @@
 </div>
 
 <br />
-
-## Now
-
-- 2nd-year CSE at **United International University**, Dhaka. Self-taught, split between **Machine Learning / AI** and **systems programming**
-- Learning classical ML in public: [ml-research-journey](https://github.com/SpicyFalcon619/ml-research-journey), from Python and NumPy/Pandas towards neural nets
-- Arch Linux + Hyprland, tuning my rice more often than I should
 
 ## Selected work
 

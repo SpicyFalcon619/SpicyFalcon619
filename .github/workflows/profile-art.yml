@@ -1,4 +1,4 @@
-name: Generate Contribution Skyline
+name: Generate Profile Art
 
 on:
   schedule:
@@ -8,8 +8,9 @@ on:
     branches:
       - main
     paths:
-      - scripts/skyline.py
-      - .github/workflows/skyline.yml
+      - scripts/**
+      - profile.json
+      - .github/workflows/profile-art.yml
 
 jobs:
   generate:
@@ -19,12 +20,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Draw the skyline from the contribution calendar
+      - name: Draw the contribution skyline and the terminal card
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python scripts/skyline.py --user "${{ github.repository_owner }}" --out dist/skyline.svg
+        run: |
+          python scripts/skyline.py --user "${{ github.repository_owner }}" --out dist/skyline.svg
+          python scripts/neofetch.py --user "${{ github.repository_owner }}" --out dist/neofetch.svg
 
-      - name: Publish it to the output branch
+      - name: Publish them to the output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
