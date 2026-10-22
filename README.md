@@ -45,14 +45,14 @@ More on the [portfolio](https://github.com/SpicyFalcon619/My-Portfolio).
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 15 hrs 23 mins
+Total Time: 13 hrs 32 mins
 
-Python        7 hrs 47 mins         ███████████▒░░░░░░░░░░░░░   44.78 %
-Markdown      2 hrs 38 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.19 %
-Other         1 hr 59 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.42 %
-HTML          1 hr 58 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.41 %
-TypeScript    1 hr 18 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
-JavaScript    31 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+Python        6 hrs 22 mins         ██████████▒░░░░░░░░░░░░░░   40.93 %
+Markdown      2 hrs 41 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.28 %
+Other         2 hrs 2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.09 %
+TypeScript    1 hr 30 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 %
+HTML          1 hr 24 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
+JavaScript    31 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
 ```
 
 <!--END_SECTION:waka-->
