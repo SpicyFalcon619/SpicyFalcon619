@@ -28,13 +28,15 @@
 
 | | |
 |---|---|
-| [**UIUNest**](https://github.com/SpicyFalcon619/uiu-nest-core) | Housing and flatmate matching for UIU students. My proudest build, a fully original idea. [Live](https://uiu-nest-core.vercel.app) |
+| [**Nestly**](https://github.com/SpicyFalcon619/nestly-core) | Student housing and flatmate matching near Dhaka campuses, built solo on Next.js and Supabase. My proudest build, a fully original idea. [Live](https://nestly-core.vercel.app) |
+| **Field Guides** | Interactive guides where every example runs in the browser: [Java](https://spicyfalcon619.github.io/java-field-guide/) (UIU's OOP courses), [Machine Learning](https://spicyfalcon619.github.io/ml-research-journey/) and [AI Engineering](https://spicyfalcon619.github.io/ai-engineering-journey/) |
+| [**Drawer 378**](https://spicyfalcon619.github.io/University/) | My whole CSE degree as a searchable archive: 3,000+ files, 37 courses, in-page viewer and folder zips |
+| [**Mandela Catalogue Field Guide**](https://github.com/SpicyFalcon619/mandela-catalogue) | Full-stack fan site with accounts, moderation and an admin CMS (Next.js, SQLite/Turso). [Live](https://mandela-catalogue.vercel.app) |
 | [**Wastopia**](https://project-wastopia.vercel.app/) | Blockchain waste tracking. Best Emerging Team, UIU CSE FEST 2025 |
-| [**ml-research-journey**](https://github.com/SpicyFalcon619/ml-research-journey) | The ML / AI learning log |
 | [**YT-DeepNote**](https://github.com/SpicyFalcon619/YT-DeepNote) | Chrome extension for timestamped notes with Notion sync |
 | [**ClearPath**](https://github.com/SpicyFalcon619/ClearPath) | University clearance system (PHP / MySQL) |
 
-More on the [portfolio](https://github.com/SpicyFalcon619/My-Portfolio).
+More on the [portfolio](https://spicyfalcon-portfolio.vercel.app) and the [desktop-style portfolio](https://spicyfalcon-os.vercel.app).
 
 ## Stack
 
