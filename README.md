@@ -28,7 +28,7 @@
 
 | | |
 |---|---|
-| [**Nestly**](https://github.com/SpicyFalcon619/nestly-core) | Student housing and flatmate matching near Dhaka campuses, built by a team of four on Next.js and Supabase. My proudest build, a fully original idea. [Live](https://nestly-core.vercel.app) |
+| [**Nestly**](https://github.com/SpicyFalcon619/nestly-core) | Student housing and flatmate matching near Dhaka campuses, built with Sadia Noman Tonni, Nazha Tarannum Roza and Mohammad Mahadi Hasan on Next.js and Supabase. My proudest build, a fully original idea. [Live](https://nestly-core.vercel.app) |
 | **Field Guides** | Interactive guides where every example runs in the browser: [Java](https://spicyfalcon619.github.io/java-field-guide/) (UIU's OOP courses), [Machine Learning](https://spicyfalcon619.github.io/ml-research-journey/) and [AI Engineering](https://spicyfalcon619.github.io/ai-engineering-journey/) |
 | [**Drawer 378**](https://spicyfalcon619.github.io/University/) | My whole CSE degree as a searchable archive: 3,000+ files, 37 courses, in-page viewer and folder zips |
 | [**Mandela Catalogue Field Guide**](https://github.com/SpicyFalcon619/mandela-catalogue) | Full-stack fan site with accounts, moderation and an admin CMS (Next.js, SQLite/Turso). [Live](https://mandela-catalogue.vercel.app) |
