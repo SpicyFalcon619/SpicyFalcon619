@@ -36,7 +36,7 @@
 | [**YT-DeepNote**](https://github.com/SpicyFalcon619/YT-DeepNote) | Chrome extension for timestamped notes with Notion sync |
 | [**ClearPath**](https://github.com/SpicyFalcon619/ClearPath) | University clearance system (PHP / MySQL) |
 
-More on the [portfolio](https://spicyfalcon-portfolio.vercel.app) and the [desktop-style portfolio](https://spicyfalcon-os.vercel.app).
+More on the [portfolio](https://spicyfalcon619.github.io) and the [desktop-style portfolio](https://spicyfalcon-os.vercel.app).
 
 ## Stack
 
